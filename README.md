@@ -7,10 +7,9 @@
 ## ***RESULTS***
 
 ### **How the new design works?**
-![June Temperature](Resources/June_Temps.png)
-![December Temperature](Resources/December_Temps.png)
 
-#### From the images above we can conclude the following:
+#### Now with the new design, the user can select several filters at the same time, as we can see below:
+![Page Filters](images/page_filters.png)
 #### 1. The average temperature in June is a little bit higher than in December, with 74.9 and 71.0 respectively. Fortunately, both months are within the average all year round, which sounds good for the business.
 #### 2. The minimum temperature is lower in December than in June, with with 56 vs 64 respectively. Still good levels for the business continuity.
 #### 3. The maximum temperature is very similar in both months, being 85 in June and 83 in December. Both temperatures souns great for the ice cream shop business.
