@@ -9,7 +9,14 @@
 ### **How the new design works?**
 
 #### Now with the new design, the user can select several filters at the same time, as we can see below:
-![Page Filters](images/page_filters.png)
-#### 1. The average temperature in June is a little bit higher than in December, with 74.9 and 71.0 respectively. Fortunately, both months are within the average all year round, which sounds good for the business.
-#### 2. The minimum temperature is lower in December than in June, with with 56 vs 64 respectively. Still good levels for the business continuity.
-#### 3. The maximum temperature is very similar in both months, being 85 in June and 83 in December. Both temperatures souns great for the ice cream shop business.
+![Page Filters](Resources/page_filters.png)
+#### By entering more than 1 filter at a time, the user can greatly improve the search, as we can appreciate in the folowwing image:
+![Multiple Filters](Resources/multiple_filters.png)
+
+## ***SUMMARY***
+
+### On drawback of the web page is that it requieres the user to enter the filter on a precise manner, otherwise the filter is not going to reflect anything at all. We can correct this with further development by adding at least the following features:
+1. We can make the filters deploy a pre-defined list of options.
+2. We can display a message to the user that they incorrectly typed an entry so to be able to correct it immediately.
+
+### This would definitely improve the user experience by providing more interaction with the web page.
